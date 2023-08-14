@@ -9,7 +9,7 @@ time lag and neural network hyperparameters.
 It uses Keras, PyTorch, MDtraj, and numpy.
 
 Usage:
-
+```
   -h, --help            show this help message and exit
   -i INFILE             Input trajectory in pdb, xtc, trr, dcd, netcdf or
                         mdcrd, WARNING: the trajectory must be 1. centered in
@@ -56,6 +56,6 @@ Usage:
                         default = no output)
   -plumed PLUMEDFILE    Output file for Plumed (default = plumed.dat)
   -plumed2 PLUMEDFILE2  Output file for Plumed >= 2.6 (default - no output)
-
+```
 
 
