@@ -2,9 +2,9 @@
 
 Parametric time-lagged tSNE. The code fits the input trajectory to a reference PDB
 file. Next, it introduces a time lag in the spirit of time-lagged independent component
-analysis (TICA] method. Finally, it optimizes parameters of an artificial neural
+analysis (TICA) method. Finally, it optimizes parameters of an artificial neural
 network to provide tSNE representation as the output. It is possible to specify
-time lag and neural network hyperparameters.
+box that fits the molecule, time lag and neural network hyperparameters.
 
 It uses Keras, PyTorch, MDtraj, and numpy.
 
