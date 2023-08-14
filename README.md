@@ -1,2 +1,5 @@
 # ptltsne
-Parametric time-lagged t-SNE
+
+Parametric time-lagged tSNE. The code fits 
+
+
